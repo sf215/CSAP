@@ -1,0 +1,2 @@
+# CSAP
+C simple as possible developed for naive users in C .It provides GUI where user can add syntax (add loop, preprocessor, declare a variable, initialize a variable, apply a condition etc.) using buttons, drop down list, text fields. The corresponding code and all the details of the source file (e.g. number of functions, declared variables, current function) also display out. For naive users help package provided for C functions as well. User guidelines are provided to hands on with user interface, it will make coding much simpler and fun.
